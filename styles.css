@@ -879,3 +879,8 @@ body {
         font-size: 1.1rem;
     }
 }
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+}
